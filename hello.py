@@ -2,4 +2,6 @@ def greet():
     print("Hello world")
 
     print("Goodbye!")
-greet()
+
+if __name__ == '__main__':
+    greet()
